@@ -120,6 +120,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+#We have added .artifacts in order to save this particulare node
+.artifacts
 .env
 .venv
 env/
